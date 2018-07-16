@@ -18,11 +18,22 @@
         </developer>
     </developers>
 
+    <licenses>
+        <license>
+            <name>The Apache Software License, Version 2.0</name>
+            <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+        </license>
+    </licenses>
+
     <scm>
         <url>git@github.com:jeromelsj/maven-starters.git</url>
-        <connection>scm:git@github.com:jeromelsj/maven-starters.git</connection>
-        <developerConnection>scm:git@github.com:jeromelsj/maven-starters.git</developerConnection>
+        <connection>scm:git:git@github.com:jeromelsj/maven-starters.git</connection>
+        <developerConnection>scm:git:git@github.com:jeromelsj/maven-starters.git</developerConnection>
     </scm>
 
+    <properties></properties>
 
+    <dependencyManagement></dependencyManagement>
+
+    <dependencies></dependencies>
 </project>
